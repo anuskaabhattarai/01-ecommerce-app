@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 01-ecommerce-app
 
 A React-based e-commerce application designed to provide an intuitive and engaging online shopping experience. This project focuses on building a modern shopping interface while applying fundamental React concepts, reusable components, and interactive user interface development.
