@@ -28,6 +28,4 @@ The project provides a foundation for understanding e-commerce application devel
 | CSS3 | Styling and responsive layouts |
 | Node.js | JavaScript runtime environment |
 | npm | Dependency and package management |
-=======
-# 01-ecommerce-app
->>>>>>> 5778357d0ce46c674ebb813a5d45a59a32c3d7b4
+
